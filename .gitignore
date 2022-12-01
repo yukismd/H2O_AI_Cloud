@@ -10,3 +10,6 @@ nohup.out
 
 # ms power point files
 *.pptx
+
+# model file
+sample_request/image_model/mlops_aboriginal-markhor_augmentations_strategy_Soft_backbone_regnetz_d8_epochs_10_learning_rate_0.001_fold0
