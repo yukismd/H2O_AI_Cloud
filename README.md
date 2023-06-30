@@ -1,7 +1,8 @@
 # H2O AI Cloud
 
-### Python Client Access to AI Cloud Resources
-[client_access](client_access) : AI Cloud上のリソースへPython Clientからアクセス
+### AI Cloud Python Client Access
+[client_access_external](client_access_external) : 外部のPython Clientから、AI Cloud上の各種リソースの操作
+[client_access_internal](client_access_internal) : AI Cloud上のAI Notebookから、各種リソースへのPython Clientによる操作
 
 ### Sample HTTP Request
 [sample_request](sample_request) : MLOpsにデプロイしたREST APIへのスコアリングの実施例
