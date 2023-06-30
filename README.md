@@ -6,3 +6,6 @@
 
 ### Sample HTTP Request
 [sample_request](sample_request) : MLOpsにデプロイしたREST APIへのスコアリングの実施例
+
+***
+[Official Tutorial](https://github.com/h2oai/haic-tutorials)
