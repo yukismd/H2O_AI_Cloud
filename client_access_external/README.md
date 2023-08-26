@@ -1,7 +1,10 @@
-## Steam
-### AI Cloud上のDriverless AIやH2O-3の操作
+## 外部環境のPython Clientから、AI Cloud上の各種リソースの操作
 
 ***
 
-[**Client_Access_ModelBuild.ipynb**](./Client_Access_ModelBuild.ipynb)
-- AI Cloud上のDriverless AI、OSS H2Oへのクライアントアクセス
+#### AI Cloud上のDriverless AI、OSS H2Oへのクライアントアクセス
+- [Client_Access_ModelBuild.ipynb](./Client_Access_ModelBuild.ipynb)
+
+#### Driverless AIモデルのMLOpsへのデプロイメント
+- Step1: Driverless AIへ接続し、Projectの作成とExperimentの登録を実施 - [DAI_ModelDeploy-Step1.ipynb](./DAI_ModelDeploy-Step1.ipynb)
+- Step2: MLOpsへ接続し、Driverless AIモデルのデプロイを実施 - [DAI_ModelDeploy-Step2.ipynb](./DAI_ModelDeploy-Step2.ipynb)
