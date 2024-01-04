@@ -7,4 +7,5 @@
 
 #### Driverless AIモデルのMLOpsへのデプロイメント
 - Step1: Driverless AIへ接続し、Projectの作成とExperimentの登録を実施 - [DAI_ModelDeploy-Step1.ipynb](./DAI_ModelDeploy-Step1.ipynb)  (Steam)
+- Step1: Driverless AIへ接続し、Projectの作成とExperimentの登録を実施 - [DAI_ModelDeploy-Step1_AEM.ipynb](DAI_ModelDeploy-Step1_AEM.ipynb) (AI Engine Manager)
 - Step2: MLOpsへ接続し、Driverless AIモデルのデプロイを実施 - [DAI_ModelDeploy-Step2.ipynb](./DAI_ModelDeploy-Step2.ipynb)
