@@ -13,3 +13,8 @@ nohup.out
 
 # model file
 sample_request/image_model/mlops_aboriginal-markhor_augmentations_strategy_Soft_backbone_regnetz_d8_epochs_10_learning_rate_0.001_fold0
+.Rproj.user
+
+
+tmp
+
