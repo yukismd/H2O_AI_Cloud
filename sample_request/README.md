@@ -13,4 +13,8 @@
 - Shaplyスコアリング
 
 [image_model/request_and_plot_image.ipynb](image_model/request_and_plot_image.ipynb)
-- 物体検出モデルへの画像データのスコアリング
+- 物体検出モデル（Hydrogen Torch）への画像データのスコアリング
+
+[nlp_model/MLOps_HT_MetricLearning.ipynb](nlp_model/MLOps_HT_MetricLearning.ipynb)
+- テキスト距離学習/NLP Metric Learningモデル（Hydrogen Torch）へのスコアリング
+
