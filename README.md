@@ -11,3 +11,5 @@
 ### Sample HTTP Request Examples
 [sample_request](sample_request) : MLOpsにデプロイしたREST APIへのスコアリングの実施例
 
+### Hydrogen Torch data format
+[Hydrogen_Torch](Hydrogen_Torch) : Hydrogen Torchで準備、もしくは生成されるデータ形式に関して
